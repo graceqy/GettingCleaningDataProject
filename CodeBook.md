@@ -2,14 +2,14 @@
 
 ## Original data information
 The files imported to merge and tidy data from the original download are:
-'features.txt': List of all features.
-'activity_labels.txt': Links the class labels with their activity name.
-'train/X_train.txt': Training set.
-'train/y_train.txt': Training labels.
-'test/X_test.txt': Test set.
-'test/y_test.txt': Test labels.
-'subject_test.txt' : the subjects in numbers for the test data sets (1-30)
-'subject_train.txt': the subjects in numbers for the train data sets (1-30)
+ 'features.txt': List of all features.
+ 'activity_labels.txt': Links the class labels with their activity name.
+ 'train/X_train.txt': Training set.
+ 'train/y_train.txt': Training labels.
+ 'test/X_test.txt': Test set.
+ 'test/y_test.txt': Test labels.
+ 'subject_test.txt' : the subjects in numbers for the test data sets (1-30)
+ 'subject_train.txt': the subjects in numbers for the train data sets (1-30)
 
 ## Data transformation steps
 -- I did slight different from the given order:
