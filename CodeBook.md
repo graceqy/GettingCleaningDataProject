@@ -66,6 +66,6 @@ agg: aggregated data by Activity and Subject, 180 rows and 68 columns.
 
 agg1: aggregated data by Activity and Subject, columns in the right order, 180 rows and 68 columns.
 
-The final output is the tidy data set: HAR_data_set.txt in the /Project/UCI_HAR_Dataset directory.
+The final output is the tidy data set: HAR_data_set.txt in the /Project/UCI_HAR_Dataset directory.  
 
 
