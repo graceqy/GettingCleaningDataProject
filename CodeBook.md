@@ -43,7 +43,7 @@ header: variable names/column names.
 
 mean_sd_column: the number of columns with mean() or sd() and the last two columns (subject and activity).
 
-clean.col: all the variables of columns with mean() or sd() and the last two columns (subject and activity), 10299 rows, 68 columns.
+clean.col: all the variables of columns with mean() or sd() and the last two columns (subject and activity), 10299 rows, 68 columns. I didn't include any *meanFreq() variables.
 
 agg: aggregated data by Activity and Subject, 180 rows and 68 columns.
 agg1: aggregated data by Activity and Subject, columns in the right order, 180 rows and 68 columns.
